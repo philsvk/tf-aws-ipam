@@ -19,4 +19,4 @@ _regional-pool-1_
 
 
 
-reference: [[https://catalog.workshops.aws/manage-cloud-resources-with-terraform/en-US]]
+workshop-link: [[https://catalog.workshops.aws/manage-cloud-resources-with-terraform/en-US]]
